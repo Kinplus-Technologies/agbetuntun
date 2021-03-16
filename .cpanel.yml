@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/agbetunt/public_html/
+    - export DEPLOYPATH=/home/fethipae/agbetuntun.kinplusgroup.com/
     - /bin/cp -R * $DEPLOYPATH
