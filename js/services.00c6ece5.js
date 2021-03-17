@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["services"],{f23e:function(e,n,s){"use strict";s.r(n);var c=function(){var e=this,n=e.$createElement,s=e._self._c||n;return s("div",[s("services-page")],1)},r=[],t=s("c464"),a={name:"Services",components:{ServicesPage:t["a"]}},i=a,l=s("2877"),o=Object(l["a"])(i,c,r,!1,null,null,null);n["default"]=o.exports}}]);
+//# sourceMappingURL=services.00c6ece5.js.map
