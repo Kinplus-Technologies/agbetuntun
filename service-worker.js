@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.795e2ab3d9df778cd555b1f6e673328d.js"
+  "/precache-manifest.7aad8f6b59b72944e2fee82cd760f7a3.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "Agbetuntun"});
